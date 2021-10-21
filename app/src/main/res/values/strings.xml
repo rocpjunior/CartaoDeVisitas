@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SocialMediaCard</string>
+    <string name="labelsocialcard">Cartão de Visita</string>
+    <string name="label_description_new_card">Novo Cartão</string>
+    <string name="label_nome">Nome</string>
+    <string name="label_facebook">Facebook</string>
+    <string name="label_instagram">Instagram</string>
+    <string name="label_twitter">Twitter</string>
+    <string name="label_linkedin">LinkedIn</string>
+    <string name="label_cor">Cor de Fundo</string>
+    <string name="label_btnConfirmar">Confirmar</string>
+    <string name ="label_show_success">Cartão cadastrado com sucesso!</string>
+    <string name="label_share">Compartilhar</string>
+</resources>
