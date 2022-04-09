@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">SocialMediaCard</string>
     <string name="labelsocialcard">Cartão de Visita</string>
-    <string name="label_description_new_card">Novo Cartão</string>
+    <string name="label_new_card">Novo Cartão</string>
     <string name="label_nome">Nome</string>
     <string name="label_facebook">Facebook</string>
     <string name="label_instagram">Instagram</string>
@@ -11,4 +11,6 @@
     <string name="label_btnConfirmar">Confirmar</string>
     <string name ="label_show_success">Cartão cadastrado com sucesso!</string>
     <string name="label_share">Compartilhar</string>
+    <string name="fab_btn_description">Botão de adicionar</string>
+    <string name="iv_btn_description">Botão de fechar a Activity</string>
 </resources>
